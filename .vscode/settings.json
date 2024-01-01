@@ -90,6 +90,26 @@
         "xmemory": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "queue": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stack": "cpp",
+        "stop_token": "cpp",
+        "xtree": "cpp",
+        "ccomplex": "cpp",
+        "any": "cpp",
+        "barrier": "cpp",
+        "coroutine": "cpp",
+        "expected": "cpp",
+        "source_location": "cpp",
+        "latch": "cpp",
+        "numbers": "cpp",
+        "semaphore": "cpp",
+        "spanstream": "cpp",
+        "stacktrace": "cpp",
+        "syncstream": "cpp",
+        "variant": "cpp",
+        "version": "cpp"
     }
 }
